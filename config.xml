@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.universo107.app"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Universo 107.1</name>
+
+    <description>
+        Lanzador para el sitio de Universo 107.1 FM en Maracaibo. 
+    </description>
+
+    <author href="http://universo107.com.ve" email="mandocon@gmail.com">
+        Oswaldo Gomez 
+    </author>
+
+</widget>
